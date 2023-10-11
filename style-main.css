@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-left: 600px;
+
+}
+.right{
+
+    background-color: #303139;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.left {
+
+    position: relative;
+    margin-left: 15px;
+    align-items: baseline;
+
+}
+i{
+    color: #FFFFFF;
+    margin-right: 20px;
+    align-items: initial;
+    
+}
+.new-chat{
+
+    color: #FFFFFF;
+    background-color: #202123;
+    width: 237px;
+    height: 45px;
+    text-align: initial;
+    border-color: #444654;
+    border-style: double;
+    border-radius: 3px;
+    text-decoration: #FFFFFF;
+    margin-top: 20px;
+}
+.text-box{
+
+    justify-content: space-evenly;
+    width: 241px;
+    height: 45px;
+    background-color: #343540;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+p{
+
+    display: flex;
+    width: 160px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 12px;
+    padding-right: 10px;
+    color: #FFFFFF;
+
+}
+
+.bi.bi-chat-left{
+
+    width: 12px;
+    margin-left: 12px;
+    justify-content: space-evenly;
+
+}
+
+.bi.bi-plus-lg{
+    margin-left: 10px;
+}
+
+
+nav{
+
+    height: 100vh;
+    width: 261px;
+    background: #202123;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+}
+
+.icons-left{
+
+    display: grid;
+    margin-top: 615px;
+
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+    width: 250px;
+    height: 14px;
+    margin-top: 25px;
+
+}
